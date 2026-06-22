@@ -6,10 +6,14 @@
 ## Skills
 
 ### Programming
-Python, C++, SQL
+- Python
+- C++
+- SQL
 
 ### Tools
-Git, GitHub, VS Code, Linux, Raspberry Pi OS
+- Git/GitHub
+- VS Code
+- Linux
 
 ## Connect With Me
 
