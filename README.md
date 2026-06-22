@@ -1,4 +1,4 @@
-# Hi, I'm Omar Kassab
+# Hi there, I'm Omar Kassab
 
 ## About Me
 - MSc Robotics & AI student with a background in Mechatronics. 
