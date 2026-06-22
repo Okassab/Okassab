@@ -10,7 +10,19 @@
 - Python
 - C++
 - SQL
-
+  
+### Robotics & Embedded Systems
+- Arduino
+- Raspberry Pi
+- Sensors
+- Serial communication
+- MQTT
+  
+### AI & Computer Vision
+- OpenCV
+- Machine Learning
+- Deep Learning
+  
 ### Tools
 - Git/GitHub
 - VS Code
