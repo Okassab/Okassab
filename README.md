@@ -2,8 +2,8 @@
 
 ## About Me
 - MSc Robotics & AI student with a background in Mechatronics. 
-- I like the phrase actions is louder than words, so instead of looking at what I wrote for my skils, go view my pinned projects :)
-- 
+- I like the phrase actions spaeks louder than words, so instead of looking at what I wrote for my skils, go view my pinned projects :)
+  
 ## Skills
 
 ### Programming
