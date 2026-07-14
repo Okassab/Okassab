@@ -8,21 +8,23 @@
 
 ### Main Programming Languages
 - Python
-- C++
+- C/C++
 - SQL
   
 ### Most Used Deep Learning Frameworks & Libraries
-- OpenCV
+- Pytorch
 - Tensorflow
-- PyTorch
+- OpenCV
   
 ### Most Used Tools
-- Git/GitHub
+- ROS 2
+- Git & GitHub
+- Linux & Ubuntu
 - VS Code
-- Linux
+
+
 
 ## Connect With Me
 
-- GitHub: [github.com/Okassab](https://github.com/Okassab)
 - LinkedIn: www.linkedin.com/in/omar-kassab1
 
