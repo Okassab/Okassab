@@ -6,24 +6,17 @@
   
 ## Skills
 
-### Programming
+### Main Programming Languages
 - Python
 - C++
 - SQL
   
-### Robotics & Embedded Systems
-- Arduino
-- Raspberry Pi
-- Sensors
-- Serial communication
-- MQTT
-  
-### AI & Computer Vision
+### Most Used Deep Learning Frameworks & Libraries
 - OpenCV
-- Machine Learning
-- Deep Learning
+- Tensorflow
+- PyTorch
   
-### Tools
+### Most Used Tools
 - Git/GitHub
 - VS Code
 - Linux
