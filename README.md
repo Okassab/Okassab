@@ -9,7 +9,6 @@
 ### Main Programming Languages
 - Python
 - C/C++
-- SQL
   
 ### Most Used Deep Learning Frameworks & Libraries
 - Pytorch
